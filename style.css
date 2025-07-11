@@ -133,7 +133,7 @@ nav button a{
 .action button a{
     text-decoration: none;
     color: white;
-    padding: 12px 36px;
+    padding: 12px 36px 12px 36px;
     font-weight: bold;
     font-size: 16px;
 }
