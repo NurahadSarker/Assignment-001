@@ -60,3 +60,34 @@ nav button a{
 }
 
 /* nav-bar section end */
+
+/* hero section start */
+
+.hero-title{
+    font-size: 65px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    color: rgba(37, 36, 50, 1);
+}
+
+.hero-content{
+    margin-top: 158px;
+    text-align: center;
+    padding-bottom: 152px;
+}
+
+.hero-content button{
+    border: none;
+    background-color: rgba(78, 71, 255, 1);
+    border-radius: 10px;
+}
+
+.hero-content button a{
+    text-decoration: none;
+    color: white;
+    /* padding: 12px 36px 12px 36px; */
+    font-weight: bold;
+    font-size: 16px;
+}
+
+/* hero section end */
