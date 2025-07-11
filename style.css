@@ -339,3 +339,56 @@ nav button a{
 }
 
 /* ready-to-focus section end */
+
+/* get-in-touch section start */
+
+.get-in-touch-container{
+    display: flex;
+    height: 632px;
+    align-items: center;
+    margin: 92px 150px 0px 150px;
+    padding: 71px 0px 71px 0px;
+}
+
+.get-in-touch-title h1{
+    font-size: 97px;
+    font-weight: bold;
+    margin-right: 115px;
+}
+
+form{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+form input, textarea{
+    height: 20px, 50px;
+    width: 350px;
+    padding: 20px 32px 20px 32px;
+    border-radius: 10px;
+    border: 1px solid rgba(214, 221, 237, 1);
+}
+
+::placeholder{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+form button{
+    border: none;
+    background-color: rgba(78, 71, 255, 1);
+    border-radius: 10px;
+    height: 62px;
+    width: 416px;
+    padding: 20px 32px 20px 32px;
+}
+
+form button a{
+    text-decoration: none;
+    color: white;
+    /* padding: 12px 36px 12px 36px; */
+    font-weight: bold;
+    font-size: 16px;
+}
+
+/* get-in-touch section end */
