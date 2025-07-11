@@ -295,3 +295,47 @@ nav button a{
 }
 
 /* testimonial section end */
+
+/* ready-to-focus section start */
+
+.ready-to-focus-container{
+    background-color: white;
+    margin: 137px 149px 0px 151px;
+    text-align: center;
+    padding: 71px 0px 71px 0px;
+    border-radius: 14px;
+}
+
+.ready-to-focus h3{
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.ready-to-focus p{
+    margin-bottom: 20px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.ready-to-focus button{
+    margin-bottom: 20px;
+    border: none;
+    background-color: rgba(78, 71, 255, 1);
+    border-radius: 10px;
+}
+
+.ready-to-focus button a{
+    text-decoration: none;
+    color: white;
+    /* padding: 12px 36px 12px 36px; */
+    font-weight:400;
+    font-size: 16px;
+}
+
+.ready-to-focus-container img{
+    height: 364px;
+    width: 840px;
+    border-radius: 48px;
+}
+
+/* ready-to-focus section end */
