@@ -392,3 +392,46 @@ form button a{
 }
 
 /* get-in-touch section end */
+
+/* footer section start */
+
+.footer{
+    background-color: white;
+    height:428px;
+    width: 100%;
+    margin-top: 14px;
+}
+
+.footer-content{
+    text-align: center;
+    padding: 104px 400px 103px 400px;
+}
+
+.footer-description h1{
+    font-size: 100px;
+    font-weight: 900;
+}
+
+.footer-description p{
+    font-size: 16px;
+    color: rgba(137, 135, 161, 1);
+}
+
+.footer-nav-bar{
+    margin-top: 20px;
+}
+
+.footer-nav-bar ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-nav-bar ul li{
+    list-style: none;
+}
+
+li a{
+    text-decoration: none;
+    color: rgba(137, 135, 161, 1);
+    font-size: 16px;
+}
